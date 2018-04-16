@@ -13,7 +13,7 @@ body{
 <body>
 <img src="tanpict.jpg" height="300" width="300">
 <h1><center>TANIA MARIS REMETICADO</center></h1>
-<p><a href="ako.html" target="content">HOME</a></p>
+<p><a href="ako.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>Tania Maris</p>
 <p><front = 'Georgia'><b>Middle Name:</b>Alajid</p>
