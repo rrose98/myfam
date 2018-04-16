@@ -13,7 +13,7 @@ body{
 <body>
 <img src="paderpict.jpg" height="300" width="300">
 <h1><center>JUGETHO REMETICADO</h1></center>
-<p><a href="ako.html" target="content">HOME</a></p>
+<p><a href="ako.php" target="content">HOME</a></p>
 <h1><center>INFORMATION</h1></center>
 <p><front = 'Georgia'><b>First Name:</b>Jugetho</p>
 <p><front = 'Georgia'><b>Middle Name:</b>Baricuatro</p>
